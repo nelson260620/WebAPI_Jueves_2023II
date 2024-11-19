@@ -135,3 +135,8 @@ C:\proyect\web API\WebAPI_Jueves_2023II\ShoppingAPI_Jueves_2023II\obj\Debug\net8
 C:\proyect\web API\WebAPI_Jueves_2023II\ShoppingAPI_Jueves_2023II\obj\Debug\net8.0\ShoppingAPI_Jueves_2023II.pdb
 C:\proyect\web API\WebAPI_Jueves_2023II\ShoppingAPI_Jueves_2023II\obj\Debug\net8.0\ShoppingAPI_Jueves_2023II.genruntimeconfig.cache
 C:\proyect\web API\WebAPI_Jueves_2023II\ShoppingAPI_Jueves_2023II\obj\Debug\net8.0\ref\ShoppingAPI_Jueves_2023II.dll
+C:\proyect\web API\WebAPI_Jueves_2023II\ShoppingAPI_Jueves_2023II\bin\Debug\net8.0\ShoppingAPI_Jueves_2023II.staticwebassets.endpoints.json
+C:\proyect\web API\WebAPI_Jueves_2023II\ShoppingAPI_Jueves_2023II\bin\Debug\net8.0\System.ClientModel.dll
+C:\proyect\web API\WebAPI_Jueves_2023II\ShoppingAPI_Jueves_2023II\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\proyect\web API\WebAPI_Jueves_2023II\ShoppingAPI_Jueves_2023II\obj\Debug\net8.0\staticwebassets\msbuild.ShoppingAPI_Jueves_2023II.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\proyect\web API\WebAPI_Jueves_2023II\ShoppingAPI_Jueves_2023II\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

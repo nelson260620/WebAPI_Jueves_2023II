@@ -4,7 +4,7 @@ namespace ShoppingAPI_Jueves_2023II.DAL.Entities
 {
     public class AuditBase
     {
-        [key]
+        [Key]
         [Required]
 
         public virtual Guid Id { get; set; }//esta es la pk de todas las tablas

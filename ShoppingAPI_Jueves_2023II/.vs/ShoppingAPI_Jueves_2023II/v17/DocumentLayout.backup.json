@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\proyect\\web API\\WebAPI_Jueves_2023II\\ShoppingAPI_Jueves_2023II\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F52349-2DDD-46E5-8447-5AF188932E5C}|ShoppingAPI_Jueves_2023II.csproj|c:\\proyect\\web api\\webapi_jueves_2023ii\\shoppingapi_jueves_2023ii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F52349-2DDD-46E5-8447-5AF188932E5C}|ShoppingAPI_Jueves_2023II.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F52349-2DDD-46E5-8447-5AF188932E5C}|ShoppingAPI_Jueves_2023II.csproj|c:\\proyect\\web api\\webapi_jueves_2023ii\\shoppingapi_jueves_2023ii\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E2F52349-2DDD-46E5-8447-5AF188932E5C}|ShoppingAPI_Jueves_2023II.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F52349-2DDD-46E5-8447-5AF188932E5C}|ShoppingAPI_Jueves_2023II.csproj|c:\\proyect\\web api\\webapi_jueves_2023ii\\shoppingapi_jueves_2023ii\\dal\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F52349-2DDD-46E5-8447-5AF188932E5C}|ShoppingAPI_Jueves_2023II.csproj|solutionrelative:dal\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F52349-2DDD-46E5-8447-5AF188932E5C}|ShoppingAPI_Jueves_2023II.csproj|c:\\proyect\\web api\\webapi_jueves_2023ii\\shoppingapi_jueves_2023ii\\dal\\entities\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F52349-2DDD-46E5-8447-5AF188932E5C}|ShoppingAPI_Jueves_2023II.csproj|solutionrelative:dal\\entities\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F52349-2DDD-46E5-8447-5AF188932E5C}|ShoppingAPI_Jueves_2023II.csproj|c:\\proyect\\web api\\webapi_jueves_2023ii\\shoppingapi_jueves_2023ii\\dal\\entities\\auditbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F52349-2DDD-46E5-8447-5AF188932E5C}|ShoppingAPI_Jueves_2023II.csproj|solutionrelative:dal\\entities\\auditbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F52349-2DDD-46E5-8447-5AF188932E5C}|ShoppingAPI_Jueves_2023II.csproj|c:\\proyect\\web api\\webapi_jueves_2023ii\\shoppingapi_jueves_2023ii\\shoppingapi_jueves_2023ii.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E2F52349-2DDD-46E5-8447-5AF188932E5C}|ShoppingAPI_Jueves_2023II.csproj|solutionrelative:shoppingapi_jueves_2023ii.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\proyect\\web API\\WebAPI_Jueves_2023II\\ShoppingAPI_Jueves_2023II\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\proyect\\web API\\WebAPI_Jueves_2023II\\ShoppingAPI_Jueves_2023II\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T23:28:34.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\proyect\\web API\\WebAPI_Jueves_2023II\\ShoppingAPI_Jueves_2023II\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\proyect\\web API\\WebAPI_Jueves_2023II\\ShoppingAPI_Jueves_2023II\\appsettings.Development.json*",
+              "RelativeToolTip": "appsettings.Development.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-14T23:27:55.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataBaseContext.cs",
+              "DocumentMoniker": "C:\\proyect\\web API\\WebAPI_Jueves_2023II\\ShoppingAPI_Jueves_2023II\\DAL\\DataBaseContext.cs",
+              "RelativeDocumentMoniker": "DAL\\DataBaseContext.cs",
+              "ToolTip": "C:\\proyect\\web API\\WebAPI_Jueves_2023II\\ShoppingAPI_Jueves_2023II\\DAL\\DataBaseContext.cs*",
+              "RelativeToolTip": "DAL\\DataBaseContext.cs*",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAlwBAAAACDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T23:11:17.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\proyect\\web API\\WebAPI_Jueves_2023II\\ShoppingAPI_Jueves_2023II\\DAL\\Entities\\Country.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\Country.cs",
+              "ToolTip": "C:\\proyect\\web API\\WebAPI_Jueves_2023II\\ShoppingAPI_Jueves_2023II\\DAL\\Entities\\Country.cs*",
+              "RelativeToolTip": "DAL\\Entities\\Country.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T23:05:58.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuditBase.cs",
+              "DocumentMoniker": "C:\\proyect\\web API\\WebAPI_Jueves_2023II\\ShoppingAPI_Jueves_2023II\\DAL\\Entities\\AuditBase.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\AuditBase.cs",
+              "ToolTip": "C:\\proyect\\web API\\WebAPI_Jueves_2023II\\ShoppingAPI_Jueves_2023II\\DAL\\Entities\\AuditBase.cs",
+              "RelativeToolTip": "DAL\\Entities\\AuditBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T22:45:44.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShoppingAPI_Jueves_2023II",
+              "DocumentMoniker": "C:\\proyect\\web API\\WebAPI_Jueves_2023II\\ShoppingAPI_Jueves_2023II\\ShoppingAPI_Jueves_2023II.csproj",
+              "RelativeDocumentMoniker": "ShoppingAPI_Jueves_2023II.csproj",
+              "ToolTip": "C:\\proyect\\web API\\WebAPI_Jueves_2023II\\ShoppingAPI_Jueves_2023II\\ShoppingAPI_Jueves_2023II.csproj*",
+              "RelativeToolTip": "ShoppingAPI_Jueves_2023II.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-14T22:43:17.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

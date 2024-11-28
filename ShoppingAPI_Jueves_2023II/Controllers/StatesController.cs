@@ -61,7 +61,7 @@ namespace ShoppingAPI_Jueves_2023II.Controllers
             {
                 if (ex.Message.Contains("duplicate"))
                 {
-                    return Conflict(string.Format($"{0} ya existe", state.Name));
+                    return Conflict(string.Format("{0} ya existe", state.Name));
                 }
                 return StatusCode(500,ex.Message);
             }

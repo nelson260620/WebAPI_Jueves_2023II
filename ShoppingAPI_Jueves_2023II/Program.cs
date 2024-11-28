@@ -4,6 +4,7 @@ using Microsoft.Extensions.Options;
 using ShoppingAPI_Jueves_2023II.DAL;
 using ShoppingAPI_Jueves_2023II.Domain.Interfaces;
 using ShoppingAPI_Jueves_2023II.Domain.Services;
+using System.Text.Json.Serialization;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -13,6 +14,9 @@ builder.Services.AddControllers();
 //linea de codigo para configurar la conexion a la BD
 builder.Services.AddDbContext<DataBaseContext>(Options=> Options.UseSqlServer(builder.Configuration.GetConnectionString
     ("DefaultConnection")));
+
+builder.Services.AddControllers().AddJsonOptions(x =>
+                x.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.IgnoreCycles);
 
 //contenedor de dependencias
 builder.Services.AddScoped<ICountryService, CountryService>();
